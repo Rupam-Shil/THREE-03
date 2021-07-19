@@ -1,0 +1,11 @@
+Model Information:
+* title:	BYE BYE!
+* source:	https://sketchfab.com/3d-models/bye-bye-e1836034e68a44cf93ea6c6c8b81b4e6
+* author:	GlowPolygon (https://sketchfab.com/GlowPolygon)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "BYE BYE!" (https://sketchfab.com/3d-models/bye-bye-e1836034e68a44cf93ea6c6c8b81b4e6) by GlowPolygon (https://sketchfab.com/GlowPolygon) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
